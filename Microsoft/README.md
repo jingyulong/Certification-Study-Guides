@@ -12,9 +12,9 @@
 
 此认证需要考两门，一门70-486考试必须选，另外通过70-480或70-483考试即可。
 
-> 1. 考试70-480**(可选)**:Programming in HTML5 with JavaScript and CSS3
-> 2. 考试70-483**(可选)**:Programming in C#
-> 3. 考试70-486**(必选)**:开发 ASP.NET MVC Web 应用
+> 1. 考试70-480(可选):Programming in HTML5 with JavaScript and CSS3
+> 2. 考试70-483(可选):Programming in C#
+> 3. 考试70-486(必选):开发 ASP.NET MVC Web 应用
 >
 
 我偏后端，选择2，3.
